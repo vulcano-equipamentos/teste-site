@@ -14,6 +14,6 @@ Projeto para o desenvolvimento e implementação do primeiro equipamento desenvo
 {:.list-inline}
 - Data: 2019
 - Qualidade das imagens geradas: alta, porém não adequadas para preservação digital
-- Precisa de treinamento: não
+- Não precisa de treinamento para o uso
 - Categoria: Equipamento para instituições de pequeno porte
 
