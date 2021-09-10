@@ -11,34 +11,34 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Pesquisa e desenvolvimento de maquinário para digitalização de documentos históricos e culturais
+    text: Digitalização em alta qualidade de documentos frágeis e de grandes dimensões
+    button: Saiba mais
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Serviços"
+    text: "Nossos principais serviços"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Desenho de máquinas"
+        desc: "Desenhamos e projetamos máquinas para digitalização de documentos e objetos culturais e históricos, considerando os requisitos específicos das instituições."
+        icon: fas fa-laptop #find more at https://fontawesome.com/icons
+      - title: "Construção de máquinas"
+        desc: "Construímos máquinas específicas para a sua instituição ou projeto, permitindo a digitalização em alta qualidade de acervos institucionais."
+        icon: fas fa-cogs
+      - title: "Serviços de digitalização in-loco"
+        desc: "Possuímos uma equipe especializada com mais de cinco anos de experiência digitalizando documentos frágeis, de grandes dimensões, e de difícil manuseio"
+        icon: fab fa-file-image
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Nossos projetos concluídos e em andamento."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Fechar Projeto"
 
   timeline:
-    title: "Timeline"
+    title: "Linha do tempo"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
