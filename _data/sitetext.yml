@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: P&D de equipamentos para digitalização em alta qualidade de documentos históricos e culturais
+    title: Desenvolvimento de equipamentos para digitalização em alta qualidade de documentos históricos e culturais
 #     text: Digitalização em alta qualidade de documentos frágeis e de grandes dimensões
     button: Saiba mais
     buttonlink: "#services"
