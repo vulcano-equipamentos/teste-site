@@ -66,18 +66,18 @@ en: &DEFAULT_EN
         alt:
       - title: "Melhorias: Lighter e Talos"
         year: "2021"
-        desc: "Realização de diversas melhorias nos equipamentos desenvolvidos, visando: melhorar os processos operacionais, facilitar transporte e operação, e melhorar suas estéticas."
-        image: assets/img/timeline/1.jpg
+        desc: "Realização de diversas melhorias nos equipamentos desenvolvidos, visando: melhorar os processos operacionais, facilitar transporte e operação, e melhorar seus designs."
+        image: assets/img/timeline/5.jpg
         alt:
       - title: "Início P&D em IA"
         year: "2021"
         desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&G em Inteligência Artificial."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/6.jpg
         alt:
       - title: "Terceira máquina: 3DHeritage"
         year: "2021-2023"
         desc: "Atualmente, a empresa encontra-se desenvolvendo a sua terceira máquina. Esta é voltada à digitalização de objetos tridimensionais frágeis em alta qualidade, reduzindo consideravelmente o tempo de digitalização e aumentando a qualidade dos modelos tridimensionais gerados."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/7.jpg
         alt:
         # you can enforce the alignment
 #         align: right
