@@ -110,7 +110,7 @@ en: &DEFAULT_EN
     people:
       - name: "Fernando Hattori"
         role: "Desenvolvedor"
-        image: assets/img/team/fernando.jpg
+        image: assets/img/team/fernando.png
         social:
           - url: https://twitter.com/fhattori
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Roberto Fray da Silva"
         role: "Pesquisador em IA"
-        image: assets/img/team/roberto.jpg
+        image: assets/img/team/roberto.png
         social:
 #           - url: https://twitter.com
 #             icon: fab fa-twitter
