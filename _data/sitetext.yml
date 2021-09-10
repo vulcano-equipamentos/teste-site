@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Linha do tempo"
-    text: "Lorem ipsum timeline"
+    text: "Nossa evolução"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -79,7 +79,7 @@ en: &DEFAULT_EN
     end: "Faça parte de nossa história!"
 
   about:
-    title: "Sobre a Vulcano Equipamentos"
+    title: "Sobre a Vulcano"
     text: "Nossa história"
     body: "A Vulcano Equipamentos para Digitalização é uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões) e permitir a sua democratização através de repositórios digitais. Nossas soluções permitem que as instituições possam digitalizar os seus acervos sem a necessidade de equipes especializadas. Nossa metodologia engloba todas as etapas, desde a identificação de requisitos à disponibilização das imagens finais em alta qualidade. "
     section: about
@@ -110,23 +110,23 @@ en: &DEFAULT_EN
     people:
       - name: "Fernando Hattori"
         role: "Desenvolvedor"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/fernando.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/fhattori
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/fernando.hattori
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/fernandohattori
             icon: fab fa-linkedin-in
       - name: "Roberto Fray da Silva"
         role: "Pesquisador em IA"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/roberto.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/robertofraysilva
             icon: fab fa-linkedin-in
 #       - name: "Diana Perterson"
 #         role: "Lead Developer"
