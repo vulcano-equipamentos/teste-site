@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/teste-site" # the subpath of your site, e.g. /blog
 
 title      : Vulcano Equipamentos para Digitalização
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : carlos.agarie@gmail.com #this is also the email contact forms will go to
 description: "Vulcano Equipamentos: Pesquisa e desenvolvimento de maquinário para digitalização de documentos históricos e culturais"
 author     : Vulcano Equipamentos para Digitalização
 # logo:     #optional, defaults to site title
