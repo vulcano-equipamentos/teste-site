@@ -6,7 +6,7 @@ alt: Equipamento Talos digitalizando um documento histórico
 
 caption:
   title: Talos
-  subtitle: Equipamento
+  subtitle: Solução para documentos de grandes dimensões
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 Projeto para o desenvolvimento e implementação do segundo equipamento desenvolvido pela equipe. Este engloba uma série de inovações na captura, processamento e geração dos mosaicos finais das digitalizações de documentos frágeis de grande dimensões (maiores que A1). O equipamento também pode ser utilizada para a digitalização de documentos menores que A1. O Talos apresenta como principais vantagens em relação a outros escâneres de documentos de grandes dimensões: a alta qualidade das imagens geradas, a redução de impactos no material (devido à possibilidade de captura sem aplicação de pressão no documento), e a possibilidade de digitalização de documentos frágeis e quebradiços. O Talos pode ser utilizado por instituições de diferentes portes para digitalização in loco, mas é recomendado para instituições de médio e grande porte. Possuímos também uma equipe especializada para a realização de digitalizações utilizando este equipamento, sem a necessidade de aquisição deste por parte da instituição. 
