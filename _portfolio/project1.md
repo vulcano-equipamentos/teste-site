@@ -13,5 +13,5 @@ Projeto voltado ao desenvolvimento e implementação do primeiro equipamento des
 
 {:.list-inline}
 - Data: 2019-2020
-- Category: Equipamento
+- Categoria: Equipamento para instituições de pequeno porte
 
