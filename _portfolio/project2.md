@@ -23,7 +23,7 @@ Atualmente, uma série de modificações de design estão sendo realizadas para 
 - Design modular e portátil
 - Categoria: Equipamento para instituições de pequeno porte
 
-[Figura 1. Documento de grandes dimensões sendo digitalizado pelo Talos](/teste-site/assets/img/portfolio/img2.jpg)
+<img src="/teste-site/assets/img/portfolio/img2.jpg" alt="Figura 1. Documento de grandes dimensões sendo digitalizado pelo Talos" class="img-fluid">
 **Figura 1.** Documento de grandes dimensões sendo digitalizado pelo Talos
 
 ![Figura 2. Documento frágil de grandes dimensões digitalizado pelo Talos](/teste-site/assets/img/portfolio/img3.png)
