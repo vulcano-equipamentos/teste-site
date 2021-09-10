@@ -1,18 +1,19 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Projeto 1 - Lighter
+subtitle: Equipamento para digitalização de alta qualidade de documentos encadernados utilizando smartphones.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Smartphone para digitalização de livros
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Lighter
+  subtitle: Equipamento
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Projeto voltado ao desenvolvimento e implementação do primeiro equipamento desenvolvido pela equipe, voltado à digitalização de alta qualidade de documentos encadernados utilizando smartphones. As imagens geradas possuem potencial para visualização em alta qualidade. O Lighter pode ser utilizado por instituições de pequeno porte, in loco, devido ao seu baixo custo e alta portabilidade. Este é composto por uma lightbox, um smartphone, a estrutura para uso, lâmpadas, refletores, e uma placa acrílica para a redução de ondulações no documento. O tratamento das imagens é realizado utilizando uma série de scripts desenvolvidos pela equipe da Vulcano, bem como software open source.
+
+#exemplos de figuras capturadas com o lighter
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Data: 2019-2020
+- Category: Equipamento
 
