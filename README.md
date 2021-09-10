@@ -1,3 +1,8 @@
+Bem-vindo ao repositório do website da Vulcano Equipamentos para Digitalização, uma empresa especializada no desenvolvimento de equipamentos para digitalização de documentos de grandes dimensões e de documentos frágeis. Nosso principal interesse é em digitalizar documentos históricos e culturais em diferentes estados de conservação e fragilidade, de todos os tamanhos (especificamente mapas e plantas arquitetônicas de grandes dimensões).
+
+Nosso website está disponível em vulcano-equipamentos.github.io.
+
+
 # [Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) Starter Template
 [![RubyGems Downloads](https://img.shields.io/gem/dt/jekyll-agency.svg)](https://rubygems.org/gems/jekyll-agency)
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/raviriley/agency-jekyll-theme/blob/master/LICENSE.txt)
