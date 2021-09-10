@@ -64,6 +64,11 @@ en: &DEFAULT_EN
         desc: "Desenvolvimento e implementação do segundo equipamento desenvolvido pela empresa, voltado à digitalização de alta qualidade de documentos frágeis de grandes dimensões (maiores que A2). Este projeto recebeu apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) através do programa de Pesquisa Inovativa em Pequenas Empresas (PIPE), processo número 18/22384-9."
         image: assets/img/timeline/4.jpg
         alt:
+      - title: "Melhorias: Lighter e Talos"
+        year: "2021"
+        desc: "Realização de diversas melhorias nos equipamentos desenvolvidos, visando: melhorar os processos operacionais, facilitar transporte e operação, e melhorar suas estéticas."
+        image: assets/img/timeline/1.jpg
+        alt:
       - title: "Início P&D em IA"
         year: "2021"
         desc: "Devido a uma grande demanda por soluções para melhorar a qualidade das imagens, facilitar a obtenção de metadados destas, automatizar parcialmente a revisão de metadados, e extrair informações relevantes dos repositórios digitais, a empresa iniciou esforços de P&G em Inteligência Artificial."
